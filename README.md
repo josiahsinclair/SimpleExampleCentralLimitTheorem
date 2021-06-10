@@ -1,2 +1,2 @@
 # SimpleExampleCentralLimitTheorem
-The Central Limit Theorem explained in a simple example
+A simple example illustrating the power of the Central Limit Theorem.
